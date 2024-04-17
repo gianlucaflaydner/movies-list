@@ -8,12 +8,6 @@ const nextConfig = {
         port: "",
         pathname: "/t/p/w500/**",
       },
-      {
-        protocol: "https",
-        hostname: "themoviedb.org",
-        port: "",
-        pathname: "",
-      },
     ],
   },
   webpack: (config, options) => {
