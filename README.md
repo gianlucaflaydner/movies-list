@@ -10,7 +10,7 @@ Simple Next.Js project using the following technologies:
 
 ***Features***
 
-- Renders a list of top movies with title, release date, poster, and a short overview of the movie.
+- Renders a list of top movies with title, release date, rating, poster, and a short overview of the movie.
 - Utilizes TailwindCSS for styling with responsive layouts.
 - Uses Apollo server to create the GraphQL API.
 - Uses GraphQL for fetching data from the API.
