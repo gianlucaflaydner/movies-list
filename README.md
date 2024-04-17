@@ -18,7 +18,7 @@ Simple Next.Js project using the following technologies:
 
 ***Project Configuration***
 
-    1- Clone the repo(git clone https://github.com/gianlucaflaydner/movies-list.git).
+    1- Clone the repo (git clone https://github.com/gianlucaflaydner/movies-list.git).
   
     2 - Navigate to the project directory.
 
