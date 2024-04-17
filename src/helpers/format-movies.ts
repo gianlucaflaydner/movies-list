@@ -1,4 +1,3 @@
-import { APIMovie } from "@/types/movie";
 import { formatDate } from "./format-date";
 import { Movie } from "@/components/movies-list/components/movie-card/movie-card.types";
 
